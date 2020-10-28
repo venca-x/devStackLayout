@@ -1,6 +1,6 @@
 {
   "name": "devStackLayout",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "dev stack layout",
   "main": "index.html",
   "scripts": {
@@ -9,20 +9,14 @@
   "author": "vEnCa-X",
   "license": "MIT",
   "devDependencies": {
-    "bootstrap": "^4.0.0",
-    "font-awesome": "^4.7.0",
-    "grunt": "^1.0.1",
-    "grunt-concat-css": "^0.3.2",
-    "grunt-contrib-concat": "^1.0.1",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-cssmin": "^2.2.1",
-    "grunt-contrib-sass": "^1.0.0",
-    "grunt-contrib-uglify": "^3.1.0",
-    "grunt-contrib-watch": "^1.0.0",
-    "grunt-express": "^1.4.1",
-    "grunt-parallel": "^0.5.1",
-    "jquery": "^3.3.1",
-    "load-grunt-tasks": "^3.5.2",
-    "popper.js": "^1.12.9"
+    "bootstrap": "^4.5.3",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.5.1",
+    "merge-stream": "^2.0.0"
   }
 }

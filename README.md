@@ -28,3 +28,8 @@ Your final website is on folder public (all css and js are concated and minifica
 |----------|---------------|
 | default | Run livereload server, watcher and sass compilator |
 | release | Rebuild sass, concat and minifi CSS. Concat and minifi JS |
+
+
+## Versions
+1.1.0 - migrate to Gulp 4
+1.0.0 - base with Grunt
